@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bba4e043.chunk.css",
+    "main.js": "/static/js/main.1dfae814.chunk.js",
+    "main.js.map": "/static/js/main.1dfae814.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.482eb7a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.482eb7a9.js.map",
+    "static/css/2.9a1c921c.chunk.css": "/static/css/2.9a1c921c.chunk.css",
+    "static/js/2.be148333.chunk.js": "/static/js/2.be148333.chunk.js",
+    "static/js/2.be148333.chunk.js.map": "/static/js/2.be148333.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9a1c921c.chunk.css.map": "/static/css/2.9a1c921c.chunk.css.map",
+    "static/css/main.bba4e043.chunk.css.map": "/static/css/main.bba4e043.chunk.css.map",
+    "static/js/2.be148333.chunk.js.LICENSE.txt": "/static/js/2.be148333.chunk.js.LICENSE.txt",
+    "static/media/Tabler.css": "/static/media/zw.a70e41e8.svg",
+    "static/media/material-design-iconic-font.min.css": "/static/media/Material-Design-Iconic-Font.bd9b02bf.woff",
+    "static/media/raleway-font.css": "/static/media/Raleway-ThinItalic.7bd028db.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.482eb7a9.js",
+    "static/css/2.9a1c921c.chunk.css",
+    "static/js/2.be148333.chunk.js",
+    "static/css/main.bba4e043.chunk.css",
+    "static/js/main.1dfae814.chunk.js"
+  ]
+}
